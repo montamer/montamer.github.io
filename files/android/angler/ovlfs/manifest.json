@@ -1,0 +1,18 @@
+{"files":
+	[
+		{
+			"url": "http://montamer.github.io/files/android/angler/ovlfs/boot_mhc19i.img",
+			"build_id": "mhc19i",
+			"type": "bootimg",
+			"size": 12334310,
+			"md5": "2696411caa46c023510a1c5b5f9a82cd"
+		},
+		{
+			"url": "http://montamer.github.io/files/android/angler/ovlfs/ovlfs_patch_v1.0.0.zip",
+			"build_id": "v1.0.0",
+			"type": "ovlfs_patcher",
+			"size": 10751172,
+			"md5": "1b8947a345f913d87de3198b92d05b8d"
+		}
+	]
+}
